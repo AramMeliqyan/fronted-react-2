@@ -25,21 +25,21 @@ export default function App(){
 
   const moveToCart = id =>{
     let found = products.find(x =>x.id === id)
-    let prod = basket.find(x=>x.id == id)
+    let prod = basket.find(x => x.id == id)
     if(!prod){
     setBasket([...basket,{...found,count:1}])
     }
   }
 
   const handeleAdd = id =>{
-      const prod = basket.find(x=>x.id == id)
+      const prod = basket.find(x => x.id == id)
       prod.count++
       setBasket([...basket])
   }
 
   const handeleNoun = id =>{
-    const prod = basket.find(x=>x.id == id)
-    if(prod.count>0){
+    const prod = basket.find(x => x.id == id)
+    if(prod.count > 0){
       prod.count--
     setBasket([...basket])
     }
