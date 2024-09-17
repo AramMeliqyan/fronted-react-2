@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "103",
+      "text": "add observer design pattern to model",
+      "status": "unstarted"
+    },
+    {
+      "id": "104",
+      "text": "responsivness of main page",
+      "status": "in progress"
+    },
+    {
+      "id": "105",
+      "text": "use carousel lib for gallery",
+      "status": "completed"
+    },
+    {
+      "id": "c43e",
+      "text": "adadadad",
+      "status": "unstarted"
+    },
+    {
+      "id": "3573",
+      "text": "sffsffsfdfdgdhh",
+      "status": "unstarted"
+    }
+  ]
+}
