@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "62e8",
+      "name": "Arsen",
+      "surname": "Arsenyan",
+      "age": 45,
+      "salary": 450000
+    },
+    {
+      "id": "6a78",
+      "name": "Arsen",
+      "surname": "Arsenyan",
+      "age": 33,
+      "salary": 500000
+    }
+  ]
+}
